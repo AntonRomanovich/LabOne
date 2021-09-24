@@ -6,5 +6,7 @@ int main()
     printf("Second commit");
     printf("3th commit");
     printf("Maybe last commit");
-    return 0;
+    int massive[10];
+    scanf ("%i", massive);    
+return 0;
 }
